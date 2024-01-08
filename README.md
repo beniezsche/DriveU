@@ -1,14 +1,11 @@
-Your App Name
-Overview
-A brief description of your app, its purpose, and the problems it solves.
-Description
+# Description
 This is an app where a user can track their location in the background and see all the locations in raw form
 
-Screenshots
-![screenshot](https://github.com/beniezsche/DriveU/blob/master/screenshot/Screenshot1.jpg?raw=true)
-![screenshot](https://github.com/beniezsche/DriveU/blob/master/screenshot/Screenshot2.jpg?raw=true)
-![screenshot](https://github.com/beniezsche/DriveU/blob/master/screenshot/Screenshot3.jpg?raw=true)
-![screenshot](https://github.com/beniezsche/DriveU/blob/master/screenshot/Screenshot4.jpg?raw=true)
+# Screenshots
+![screenshot](https://github.com/beniezsche/DriveU/blob/master/Screenshots/Screenshot1.jpg?raw=true)
+![screenshot](https://github.com/beniezsche/DriveU/blob/master/Screenshots/Screenshot2.jpg?raw=true)
+![screenshot](https://github.com/beniezsche/DriveU/blob/master/Screenshots/Screenshot3.jpg?raw=true)
+![screenshot](https://github.com/beniezsche/DriveU/blob/master/Screenshots/Screenshot4.jpg?raw=true)
 
 
 Libraries and Technologies Used
