@@ -15,6 +15,6 @@ Google Maps Platform: Integrated to provide dynamic maps and location-based serv
 
 
 # Clone the repository
-git clone https://github.com/beniezsche/DriveU.git
+git clone https://github.com/beniezsche/Location-Tracking.git
 
 # Open the project in Android Studio
